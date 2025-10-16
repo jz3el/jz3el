@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammed Jaseel</h1>
-<h3 align="center">💻 A Passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi , I'm Muhammed Jaseel</h1>
+<h3 align="center"> A Passionate Full Stack Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jz3el&label=Profile%20views&color=0e75b6&style=flat" alt="jz3el" />
@@ -7,56 +7,56 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🔭 I’m currently working on an internal **School Management System (SMS)**  
-- 🌱 I’m currently learning:  
+-  I’m currently working on an internal **School Management System (SMS)**  
+-  I’m currently learning:  
   `.NET | Angular | HTML | CSS | Bootstrap | C# | SQL | Git`
-- 💡 Passionate about building scalable web applications and improving system performance
-- 📫 Reach me at: **mjazeelp@gmail.com**
+-  Passionate about building scalable web applications and improving system performance
+-  Reach me at: **mjazeelp@gmail.com**
 
 ---
 
-### 🛒 Featured Project: E-commerce Web Application
+### Featured Project: E-commerce Web Application
 
-#### 🔹 Overview
+####  Overview
 A full-featured **E-commerce Web Application** built using **Angular** and **ASP.NET Core (.NET 6)**. This application supports both customer and admin roles, with features covering product management, user authentication, cart and order processing, and more.
 
-#### 🔧 Tech Stack
+####  Tech Stack
 - **Frontend**: Angular, TypeScript, HTML5, CSS3, Bootstrap
 - **Backend**: ASP.NET Core Web API (C#)
 - **Database**: Microsoft SQL Server
 - **Authentication**: JWT (JSON Web Tokens)
 - **Tools**: Entity Framework Core, Postman, Git, Visual Studio, VS Code
 
-#### ✨ Key Features
+####  Key Features
 
-##### 🛍️ User Module
+#####  User Module
 - Browse product catalog with filtering and search
 - Add to cart and wishlist functionality
 - Secure user registration and login (JWT-based)
 - Order tracking and order history
 
-##### ⚙️ Admin Module
+##### Admin Module
 - Admin dashboard with product CRUD (Create, Read, Update, Delete)
 - Manage users and orders
 - Update order status
 
-##### 🛒 Shopping Cart & Checkout
+#####  Shopping Cart & Checkout
 - Real-time cart updates
 - Integrated order summary and address form
 - Seamless checkout experience
 
-##### 📦 API Integration
+#####  API Integration
 - RESTful API with status codes and error handling
 - Angular services for API consumption
 
-#### 📁 Repository
+#### Repository
 🔗 [View Project on GitHub](https://github.com/jz3el/ecommerce-app) *(Update with actual repo link)*
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/muhammedjaseelp" target="_blank">
@@ -66,7 +66,7 @@ A full-featured **E-commerce Web Application** built using **Angular** and **ASP
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 <p align="left">
   <!-- Frontend -->
@@ -93,7 +93,7 @@ A full-featured **E-commerce Web Application** built using **Angular** and **ASP
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -103,7 +103,7 @@ A full-featured **E-commerce Web Application** built using **Angular** and **ASP
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jz3el&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
